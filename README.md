@@ -1,5 +1,7 @@
 # README
 
+Frontend: https://github.com/j127/rails_api_ember_example_frontend
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
