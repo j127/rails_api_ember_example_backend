@@ -12,7 +12,7 @@
 
 ActiveRecord::Schema.define(version: 2018_04_30_171059) do
 
-  create_table "monsters_tables", force: :cascade do |t|
+  create_table "monsters", force: :cascade do |t|
     t.string "name"
     t.integer "level"
   end
